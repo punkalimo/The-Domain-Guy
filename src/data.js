@@ -27,7 +27,19 @@ export const projects = [
       "A portfolio website provides professional information about an individual or a company and presents a showcase of their work, To supply site visitors with information about the individual or company",
     image: "./project-4.png",
   },
-];
+  {
+    title: "Time-Bank Management System",
+    subtitle: "Time-Bank System Web Application ",
+    description: "A Time Bank is generally a community-run system where the time (e.g., hours) to deliver a particular task/service is the unit of the account – not the currency as in traditional bank. It tries to convert unpaid time into a valuable commodity that is targeted at building social capital, and greater community bonding",
+    image: "./project-5.jpg",
+  },
+  {
+    title: "Cyber Academy Portal",
+    subtitle: "Cyber Academy Student, Lecturer and Admin Portal",
+    description:" Cyber Academy Learning Management Systems is a place where students can provide a username and password to gain access to an education organization’s programs and other learning related materials",
+    image: "./project-6.jpg"
+  }
+]
 
 export const testimonials = [
   {
@@ -54,5 +66,9 @@ export const skills = [
   "MySQL",
   "CCNA",
   "Software Engineering",
+  "Network Engineering",
+  "Penetration Testing & Vulnerability Asssesment",
+  "Network Security Implementation",
+  "Enteprise Server Management (CentOS)",
   "Web Development",
 ];
